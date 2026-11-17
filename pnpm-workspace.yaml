@@ -1,3 +1,5 @@
 packages:
   - "apps/*"
   - "packages/*"
+minimumReleaseAgeExclude:
+  - '@splenddev/kreativ-ui@0.3.17'
