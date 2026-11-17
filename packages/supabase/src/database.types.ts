@@ -1,12 +1,4 @@
-﻿Scope: all 9 workspace projects
-? Verifying lockfile against supply-chain policies (610 entries)...
-Lockfile is up to date, resolution step is skipped
-Packages: -1
--
-Γ£ô Lockfile passes supply-chain policies (610 entries in 16.2s)
-
-Done in 18.4s using pnpm v11.25.0
-export type Json =
+﻿export type Json =
   | string
   | number
   | boolean

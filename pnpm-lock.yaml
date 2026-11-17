@@ -64,8 +64,8 @@ importers:
         specifier: workspace:*
         version: link:../../packages/supabase
       '@splenddev/kreativ-ui':
-        specifier: ^0.3.17
-        version: 0.3.17(@testing-library/dom@10.4.2)(@types/node@20.19.43)(@types/react-dom@19.2.5(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(vite@8.3.8(@types/node@20.19.43)(jiti@2.7.0))
+        specifier: ^0.3.18
+        version: 0.3.18(@testing-library/dom@10.4.2)(@types/node@20.19.43)(@types/react-dom@19.2.5(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(vite@8.3.8(@types/node@20.19.43)(jiti@2.7.0))
       '@supabase/ssr':
         specifier: ^0.12.7
         version: 0.12.7(@supabase/supabase-js@2.119.0)
@@ -943,8 +943,8 @@ packages:
     peerDependencies:
       react: '>=18'
 
-  '@splenddev/kreativ-ui@0.3.17':
-    resolution: {integrity: sha512-IQYPcfnbM1DG5AxGX+QELNo8+VVhgu10sosdjN+eWdXq08s3qoJRiBKwL7Lc2dz1HiTucqDYml/febSldM5w6g==}
+  '@splenddev/kreativ-ui@0.3.18':
+    resolution: {integrity: sha512-2DpbuYPgdMvTeOPVxeC0k0DHJMSYv0d9rIALLHIWvEx4aYQXKcHSd2TNKC1XNfTmifkwwD42U0Fk9wIF7hIMAg==}
     engines: {node: '>=18'}
     peerDependencies:
       react: '>=18'
@@ -3831,7 +3831,7 @@ snapshots:
     dependencies:
       react: 19.3.0
 
-  '@splenddev/kreativ-ui@0.3.17(@testing-library/dom@10.4.2)(@types/node@20.19.43)(@types/react-dom@19.2.5(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(vite@8.3.8(@types/node@20.19.43)(jiti@2.7.0))':
+  '@splenddev/kreativ-ui@0.3.18(@testing-library/dom@10.4.2)(@types/node@20.19.43)(@types/react-dom@19.2.5(@types/react@19.2.18))(@types/react@19.2.18)(react-dom@19.3.0(react@19.3.0))(react@19.3.0)(vite@8.3.8(@types/node@20.19.43)(jiti@2.7.0))':
     dependencies:
       '@floating-ui/react': 0.27.20(react-dom@19.3.0(react@19.3.0))(react@19.3.0)
       '@splenddev/kreativ-core': 0.1.26(react@19.3.0)
